@@ -197,19 +197,19 @@ DELETE /api/tasks/:id
 
 ## Login Page
 
-![Login Page](./screenshots/Login.png)
+![Login Page](./screenshot/Login.png)
 
 ---
 
 ## Register Page
 
-![Register Page](./screenshots/Register.png)
+![Register Page](./screenshot/Register.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshot/Dashboard.png)
 
 ---
 

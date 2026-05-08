@@ -1,6 +1,18 @@
 # Task Management System
 
-Simple Fullstack Task Management Application built using MERN Stack.
+A modern fullstack Task Management System built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). This application allows users to securely manage their personal tasks through authentication, task organization, and status tracking features.
+
+The system provides complete CRUD functionality, JWT-based authentication, task filtering, deadline management, and responsive user interfaces designed for productivity and usability.
+
+This project was developed as part of a Fullstack Web Developer technical assessment to demonstrate backend API development, frontend integration, database management, authentication, and responsive UI implementation.
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+Sistem Manajemen Tugas berbasis fullstack modern yang dibangun menggunakan MERN Stack (MongoDB, Express.js, React.js, dan Node.js). Aplikasi ini memungkinkan pengguna untuk mengelola tugas pribadi secara aman melalui fitur autentikasi, pengelolaan tugas, dan pelacakan status pekerjaan.
+
+Sistem ini menyediakan fitur CRUD lengkap, autentikasi berbasis JWT, filtering tugas berdasarkan status, pengelolaan deadline, serta antarmuka responsif yang dirancang agar mudah digunakan dan mendukung produktivitas pengguna.
+
+Project ini dikembangkan sebagai bagian dari technical assessment Fullstack Web Developer untuk menunjukkan kemampuan dalam pengembangan REST API backend, integrasi frontend, pengelolaan database, autentikasi pengguna, dan implementasi antarmuka modern yang responsif.
 
 ## Features
 

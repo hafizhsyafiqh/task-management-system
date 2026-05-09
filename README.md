@@ -54,24 +54,6 @@ Project ini dikembangkan sebagai bagian dari technical assessment Fullstack Web 
 - JWT
 - bcryptjs
 
-
-# Project Structure
-
-```bash
-task-manager-app/
-│
-├── backend/
-│   ├── src/
-│   ├── .env.example
-│   ├── package.json
-│
-├── frontend/
-│   ├── src/
-│   ├── package.json
-│
-├── README.md
-```
-
 ---
 
 # Backend Setup

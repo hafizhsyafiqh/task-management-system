@@ -104,7 +104,7 @@ http://localhost:5000
 
 ---
 
-# ⚙️ Frontend Setup
+# Frontend Setup
 
 ## 1️⃣ Open frontend folder
 
